@@ -1,0 +1,4 @@
+# Development-specific configuration properties
+server:
+  port: 8080
+
